@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10463" started-at="2019-04-04T18:17:59Z" finished-at="2019-04-04T18:18:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10463" started-at="2019-04-04T18:17:59Z" finished-at="2019-04-04T18:18:10Z">
+      <class name="stepDefinitions.Tours_HomePg_StepDef">
+        <test-method status="PASS" signature="launchToursPage()[pri:0, instance:stepDefinitions.Tours_HomePg_StepDef@53b32d7]" name="launchToursPage" duration-ms="10423" started-at="2019-04-04T18:17:59Z" finished-at="2019-04-04T18:18:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchToursPage -->
+      </class> <!-- stepDefinitions.Tours_HomePg_StepDef -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
